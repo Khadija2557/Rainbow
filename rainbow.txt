@@ -1,0 +1,9 @@
+This is rainbow
+purple
+orange
+green
+blue
+red
+brown
+black
+These are colors
